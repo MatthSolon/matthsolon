@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🤝estou procurando ajuda com ApiREST, metodologias ageis<br>🌱 no momento estou aprendendo PHP, Laravel, MySQL<br>⚡ Estudante de ADS, procurando aprender o maximo possivel.
 
 
@@ -17,9 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=matthsolon&icon=2&color=1)](https://visitcount.itsvg.in)
