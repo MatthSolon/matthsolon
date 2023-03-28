@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=matthsolon&theme=dracula&hide_border=false&include_all_commits=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=matthsolon&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matthsolon&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matthsolon&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=matthsolon&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
