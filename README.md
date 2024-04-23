@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🤝estou procurando ajuda com ApiREST, metodologias ageis<br>🌱 no momento estou aprendendo PHP, Laravel, MySQL<br>⚡ Estudante de ADS, procurando aprender o maximo possivel.
+🤝estou procurando ajuda com ApiREST, metodologias ageis<br>🌱 no momento estou aprendendo C#, .NET, SQLserver<br>⚡ Estudante de ADS, procurando aprender o maximo possivel.
 
 
 ## 🌐 Socials:
