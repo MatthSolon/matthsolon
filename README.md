@@ -1,5 +1,9 @@
 # 💫 Sobre mim:
-🤝estou procurando ajuda com ApiREST, metodologias ageis<br>🌱 no momento estou aprendendo C#, .NET, SQLserver<br>⚡ Estudante de ADS, procurando aprender o maximo possivel.
+🎓 Sou formado em Análise e Desenvolvimento de Sistemas e cursando pos graduação em engenharia de software, sempre buscando evoluir como profissional de tecnologia.<br>  
+🔍 Atualmente focado em aprofundar meus conhecimentos em C#, .NET e SQL Server, com interesse especial em bancos de dados e engenharia de software.<br>  
+📦 Tenho experiência com desenvolvimento web usando PHP e Laravel, além de vivência com bancos MySQL e PostgreSQL.<br>  
+🚀 Estou migrando do suporte técnico para áreas mais voltadas à programação e dados, com projetos práticos em APIs REST, Docker, Firebase e análise de dados.<br>  
+🤝 Busco colaborar em projetos com metodologias ágeis, aprender com outros devs e compartilhar o que estou construindo no caminho.
 
 
 ## 🌐 Socials:
